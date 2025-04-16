@@ -48,7 +48,6 @@ Figure 02  Encoder 8 * 3:
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
-/* write all the steps invloved */
 
 **PROGRAM**
 ```
