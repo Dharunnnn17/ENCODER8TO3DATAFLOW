@@ -34,7 +34,9 @@ Logical circuit of the above expressions is given below:
 
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
 
-Figure 02  Encoder 8 * 3
+Figure 02  Encoder 8 * 3:
+![image](https://github.com/user-attachments/assets/0c8253a1-a672-4cbc-ae19-e70d94026926)
+
 
 **Procedure**
 1.	Type the program in Quartus software.
@@ -57,10 +59,11 @@ assign a= (y4 | y5 | y6 | y7);
 assign b= (y2 | y3 | y6 | y7);
 assign c= (y1 | y3 | y5 | y7);
 endmodule
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+
 ```
 
 **Developed by: BARATHRAJ K**
+
 **RegisterNumber:212224230033**
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
